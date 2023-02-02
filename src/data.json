@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "userId": 1,
+      "heading": "George Orwell - Nineteen Eighty-Four",
+      "content": "The primary theme of 1984 by George Orwell is to warn readers of the dangers of totalitarianism. The central focus of the book is to convey the extreme level of control and power possible under a truly totalitarian regime. It explores how such a governmental system would impact society and the people who live in it."
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "heading": "K. B. Jensen - LOVE AND OTHER MONSTERS IN THE DARK",
+      "content": "Whether they are plausible, hyperbolic, or fantastical, these stories relish in circumstances that lead people toward new awareness. They’re linked by quiet treacheries: a wedding cake poisoner plots against his sister, but his malice catches up to him; a teenage cannibal is pained by harassment and consumes her tormentor; a man who is turned into a weaponized bird lures a woman toward a visceral transformation. “The Wall” is a dystopian reversal of the US-Mexico border crisis and focuses on a girl’s fear of separation; “Catfishing in the Time of Covid” concentrates on a fraudster with pangs of conscience, and features an act of mercy."
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "heading": "Leonard Ruhl - TAKEDOWN",
+      "content": "Benjamin’s client, twenty-year-old Mia, has been accused of murdering Jimmy, a former police officer who was a pedophile. But Mia, who’s confessed to the crime, doesn’t fit the killer’s profile. She might have been an accomplice; she might have witnessed the murder. Benjamin decides to do some digging. Still, he isn’t prepared for the morass that he uncovers—including the revelation that there is more to the story of his own mother’s death than he previously knew. He learns about the involvement of influential public figures in a conspiracy that’s twenty-eight years old."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "heading": "Antonia Deignan - UNDERWATER DAUGHTER",
+      "content": "Deignan writes that, as a child, she confused her mother with God; since this all-powerful being did not come to her aid, she had no one to turn to. Among her peers, she was considered weird and called a “slut.” Her body became both a site of trauma and a vehicle for triumph as she entered the world of dance via the Children’s Theater Company and School, where at last she fit in. However, she was raped at the age of fourteen by a trusted older performer and abandoned ballet. Later, she sought help by attending a conference for sexual abuse survivors and convincing her parents to join her for a therapy session. She also found sanctuary in jazz dancing (though she had to fend off unwelcome advances in the process) and motherhood, through which she endeavored to break the cycle of abuse."
+    }
+  ]
+}
