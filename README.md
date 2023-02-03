@@ -1,3 +1,9 @@
+Atsisiųsti darbą, visą darbą paleistį su npm start komanda.
+Įsirašyti npm i react-router-dom, atskirame terminale.
+Paleisti duomenų bazę json-server src/data.json --watch --port 5000, atskirame terminale
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

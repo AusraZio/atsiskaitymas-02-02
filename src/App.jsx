@@ -11,7 +11,7 @@ const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const handleLogin = (email, password) => {
-    if (email === "test@test.com" && password === "password123") {
+    if (email === "test@example.com" && password === "password123") {
       setIsLoggedIn(true);
     }
   };
